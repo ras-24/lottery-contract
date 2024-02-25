@@ -4,7 +4,11 @@ Lottery Smart Contract Backend
 ## Getting Started
 This is an example of how you can set up this project locally. To get a local copy up and running, follow these steps.
 
-## Installation
+### Prerequisites
+We use Sepolia Network so will need to use a Sepolia faucet to obtain test ether.
+Make sure you have Metamask balance on Sepolia Network.
+
+### Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/ras-24/lottery-contract.git
