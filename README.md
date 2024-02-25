@@ -1,5 +1,5 @@
 # lottery-contract
-Lottery Smart Contract
+Lottery Smart Contract Backend
 
 ## Getting Started
 This is an example of how you can set up this project locally. To get a local copy up and running, follow these steps.
