@@ -3,9 +3,9 @@ const { Web3 } = require("web3");
 const { abi, evm } = require("./compile");
 
 const provider = new HDWalletProvider(
-  "YOUR_MNEMONIC",
+  'YOUR_METAMASK_SEED_PHRASE',
   // remember to change this to your own phrase!
-  "YOUR_INFURA_URL"
+  'YOUR_INFURA_SEPOLIA_URL_ENDPOINT'
   // remember to change this to your own endpoint!
 );
 

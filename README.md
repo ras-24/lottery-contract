@@ -25,9 +25,9 @@ Make sure you have MetaMask balance on Sepolia Network.
 4. On deploy.js file, please change to your seed phrase and infura endpoint
    ```sh
    const provider = new HDWalletProvider(
-     "YOUR_MNEMONIC",
+      'YOUR_METAMASK_SEED_PHRASE',
       // remember to change this to your own phrase!
-      "YOUR_INFURA_URL"
+      'YOUR_INFURA_SEPOLIA_URL_ENDPOINT'
       // remember to change this to your own endpoint!
    );
    ```
