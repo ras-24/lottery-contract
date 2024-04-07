@@ -5,7 +5,7 @@ Lottery Smart Contract Backend
 This is an example of how you can set up this project locally. To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-1. Must have a MetaMask Wallet Account.
+1. You must have a MetaMask Wallet Account.
 2. We use Sepolia Network so we need to use a Sepolia faucet to obtain test ether.
 Make sure you have MetaMask balance on Sepolia Network.
 
